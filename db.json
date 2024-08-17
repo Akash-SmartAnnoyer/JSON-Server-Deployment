@@ -129,16 +129,7 @@
       "roomId": "eb1b"
     }
   ],
-  "complaints": [
-    { 
-      "id": "1723378592205",
-      "roomNumber": "201",
-      "complaint": "Water",
-      "reportedDate": "2",
-      "reportedBy": "Akash",
-      "status": "Pending"
-    }
-  ],
+  "complaints": [],
   "rentDue": [],
     "notices": [],
   "settings": [
