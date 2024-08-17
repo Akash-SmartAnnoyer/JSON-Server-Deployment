@@ -132,6 +132,7 @@
   "complaints": [],
   "rentDue": [],
     "notices": [],
+    "foodMenu" : [],
   "settings": [
     {
       "id": 1,
